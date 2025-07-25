@@ -1,8 +1,8 @@
-package dayone;
+package day1.studentid;
 
 import java.util.*;
 
-public class ASSIGNSTUDENTID {
+public class AssignStudentID {
     public static void main(String[] args) {
         List<String> studentNames = Arrays.asList("Oorvi","Gahan","Bhagvik","Sri","Raj","Raj","Sri");
         Set<String> uniqueNames = new LinkedHashSet<>(studentNames);
